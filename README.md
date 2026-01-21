@@ -1,117 +1,99 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Xiaolong+(Aaron)+Luo;PhD+Candidate+@+Harvard+University;AI+Researcher+in+Healthcare;Building+Diagnostic+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Wang+Yuxuan;AIGC+Creative+Video+%26+Content+Designer;Master+of+Architecture+@+SUST;Tech-Driven+Designer" alt="Typing SVG" />
 </h1>
 
-
 <p align="center">
-  <a href="https://aaronluo00.github.io/Aaron_Homepage/"><strong>🌐 Explore my full homepage →</strong></a>
-</p>
-
-<p align="center">
-  🎓 Ph.D. Student in Engineering Science @ Harvard University  
-  🧠 Building intelligent diagnostic agents | Multi-modal + Multi-task + LLMs  
-  📧 Email: <a href="448675436@qq.com">xiaolongluo[@]g.harvard.edu</a>
+  🎓 Master's in Architecture @ <strong>Suzhou University of Science and Technology</strong> (2022-2025)<br>
+  🎨 AIGC Designer | Architectural Designer | Full-Stack Creative<br>
+  📧 Email: <a href="mailto:448675436@qq.com">448675436@qq.com</a> | 📞 138-6255-1824
 </p>
 
 ---
 
 <p align="center">
+  <!-- 注意：请将下面的 YOUR_GITHUB_USERNAME 换成你自己的 GitHub 用户名 -->
   <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=AaronLuo00&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
   
-  <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/AaronLuo00?style=for-the-badge&logo=github&label=Followers&color=2eb85c"/>
-  
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/AaronLuo00?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
+  <!-- Stars (如果你有项目) -->
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=f39c12"/>
 </p>
 
 ---
 
-## 🔬 Research Interests
-> **Flexible Diagnostic Models with Multi-task and Multi-modal Learning**  
-> I work on developing advanced AI models that can simultaneously handle multiple diagnostic tasks while effectively integrating various types of medical data (imaging, clinical notes, lab results) to provide more comprehensive and accurate medical assessments.  
+## 🛠 Professional Skills (个人技能)
+
+> **🤖 AIGC & Intelligent Production**  
+> 精通 **Stable Diffusion**，能独立搭建面向生产的工作流。擅长通过系统化提示词工程与迭代，高效生成 IP 形象、场景概念及宣传素材。熟悉 Coze 等 AI 智能体平台，可配置智能体实现创意内容的自动化生成与辅助。
 >   
-> **Evaluating and Enhancing LLM Reasoning in Real-World Medical Settings**  
-> I work on developing evaluation frameworks and benchmarks to assess and improve how large language models reason over complex, temporally extended medical data. My goal is to enhance their fidelity, calibration, and robustness, ultimately enabling trustworthy and generalizable clinical AI systems.
+> **💻 Front-end & Interaction**  
+> 具备微信小程序及网页开发能力，能协助完成从界面到后端的完整项目，为数字文化资产提供交互载体。
+>
+> **📐 Design & Management**  
+> 拥有复杂创意项目（如建筑设计）从概念策划、资源协调到最终交付的全流程把控经验。英语六级 (CET-6)。
 
 ---
 
-## 🌱 Long-term Vision
-> I aspire to become a compound talent who deeply understands large-scale medical data, multi-modal learning, and end-to-end clinical applications.  My long-term goal is to bridge cutting-edge AI research and real-world healthcare impact, driving both technical innovation and product commercialization. Ultimately, I hope to promote a more equitable distribution of medical resources, enabling better healthcare access and outcomes for all, and bringing broader benefits to society.
+## 💼 Work Experience (工作经历)
 
+> **2025.07 ~ 至今 | 苏州城发建筑设计有限公司 | 方案所 建筑设计师**  
+> 🔹 **全流程协调：** 主导项目从概念到报批的完整视觉链条（概念图、效果图、文本），深刻理解“文化概念-视觉转化-多媒介传播”的全过程。  
+> 🔹 **技术化解构：** 善于将抽象客户需求拆解为可被技术工具（如 SD 风格提示词）执行的具体任务。
+
+> **2023.07 ~ 2024.01 | 华东建筑设计研究院 | 建筑工程师 (实习)**  
+> 🔹 **流程优化：** 优化分析图与效果图的标准化绘制流程，建立模板与规范，减少团队约 15% 的重复修改工作。
 
 ---
 
-## 👨🏻‍💻 Languages and Tools
+## 🌟 Self Evaluation (自我评价)
+
+> **技术驱动 (Tech-Driven):**  
+> 擅长将前沿工具（如 AIGC）系统化融入工作流以提升效能。具备从抽象需求到具体技术方案的转化能力。
+>
+> **高效协同 (High Efficiency):**  
+> 在过往跨专业项目中作为关键信息节点，精准理解并衔接不同领域要求，确保创意、技术与执行层面的高效对齐。
+
+---
+
+## 👨🏻‍💻 Tools & Software
 
 <p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronLuo00&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronLuo00&layout=compact&theme=tokyonight" height="170"/>
+  <!-- 这里的 stats 同样需要把 username 换成你的 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="left">
-  <!-- Python & Related -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+  <!-- Design & AIGC Tools (Using representative icons) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma/Design" width="45" height="45"/>
+  <!-- 由于 Devicon 没有 AutoCAD/SD 图标，这里放通用的 Python/AI 相关图标代表技术能力 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python (AI Base)" width="45" height="45"/>
+  
+  <!-- Web Development Skills (Based on your resume) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/>
-
-  <!-- Frameworks / Data / ML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45"/>
-
-  <!-- Platforms / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45"/>
 </p>
 
 ## 🤝 Connect with me
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/xiaolong-luo-4a8281236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <!-- Email -->
+  <a href="mailto:448675436@qq.com">
+    <img src="https://img.shields.io/badge/Email-448675436%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=Pjx2DdQAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/AaronLuo00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Xiaohongshu -->
-  <a href="https://xhslink.com/m/9rvz3QJ3Tvu">
-    <img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logoColor=white" alt="Xiaohongshu"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/aaron_luo_00/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <!-- WeChat/Phone placeholder -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/WeChat-138--6255--1824-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
   </a>
 </p>
 
 ---
 
 ## ✨ Quote
-> *"Do, or do not. There is no 'try'."* — Yoda
+> *"Design is intelligence made visible."*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
